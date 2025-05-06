@@ -61,6 +61,10 @@ The [second exercise](https://github.com/danielbeach/data-engineering-practice/t
 tests your ability perform web scraping, build uris, download files, and use Pandas to
 do some simple cumulative actions.
 `cd Exercises/Exercise-2` and see `README` in that location for instructions.
+![image](https://github.com/user-attachments/assets/40b70aa4-c743-4ca2-8c2e-2d23a26b7ddd)
+![image](https://github.com/user-attachments/assets/b7492cb5-c24e-4294-bfd0-33d5b7790250)
+
+
 
 #### Exercise 3 - Boto3 AWS + s3 + Python.
 The [third exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-3) tests a few skills.
