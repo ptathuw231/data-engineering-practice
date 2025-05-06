@@ -44,14 +44,13 @@ The [first exercise](https://github.com/danielbeach/data-engineering-practice/tr
 from an `HTTP` source and unzip them, storing them locally with `Python`.
 `cd Exercises/Exercise-1` and see `README` in that location for instructions.
 
-![image](https://github.com/user-attachments/assets/792be522-45b3-411a-899f-369f43181966)
 ![image](https://github.com/user-attachments/assets/264e35f5-ac79-4c51-bbfe-6e5579981c38)
 ![image](https://github.com/user-attachments/assets/d4837a00-d412-4e3d-a004-e3b557d02ae0)
 ![image](https://github.com/user-attachments/assets/be248502-369b-4215-bfba-894f1cc622af)
 ![image](https://github.com/user-attachments/assets/d5b900a5-0493-42ca-9ed4-6e16ba38da9e)
 ![image](https://github.com/user-attachments/assets/02be479f-3a09-42de-a40d-d022b5ea4a4b)
 ![image](https://github.com/user-attachments/assets/fb1a5a5f-214c-4590-ace3-5d39be8f3d3f)
-
+![image](https://github.com/user-attachments/assets/792be522-45b3-411a-899f-369f43181966)
 
 
 #### Exercise 2 - Web Scraping + Downloading + Pandas
