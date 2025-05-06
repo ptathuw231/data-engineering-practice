@@ -45,7 +45,6 @@ from an `HTTP` source and unzip them, storing them locally with `Python`.
 `cd Exercises/Exercise-1` and see `README` in that location for instructions.
 
 ![image](https://github.com/user-attachments/assets/792be522-45b3-411a-899f-369f43181966)
-![image](https://github.com/user-attachments/assets/13645751-b863-4b8e-8bbf-d5b94e1279f6)
 ![image](https://github.com/user-attachments/assets/264e35f5-ac79-4c51-bbfe-6e5579981c38)
 ![image](https://github.com/user-attachments/assets/d4837a00-d412-4e3d-a004-e3b557d02ae0)
 ![image](https://github.com/user-attachments/assets/be248502-369b-4215-bfba-894f1cc622af)
