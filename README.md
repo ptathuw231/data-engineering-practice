@@ -51,6 +51,7 @@ from an `HTTP` source and unzip them, storing them locally with `Python`.
 ![image](https://github.com/user-attachments/assets/02be479f-3a09-42de-a40d-d022b5ea4a4b)
 ![image](https://github.com/user-attachments/assets/fb1a5a5f-214c-4590-ace3-5d39be8f3d3f)
 ![image](https://github.com/user-attachments/assets/792be522-45b3-411a-899f-369f43181966)
+![image](https://github.com/user-attachments/assets/a2dfe656-27e6-4460-b9ee-ce0c6faa38f8)
 
 
 #### Exercise 2 - Web Scraping + Downloading + Pandas
