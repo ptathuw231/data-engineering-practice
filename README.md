@@ -78,7 +78,16 @@ The [fourth exercise](https://github.com/danielbeach/data-engineering-practice/t
 focuses more file types `json` and `csv`, and working with them in `Python`.
 You will have to traverse a ragged directory structure, finding any `json` files
 and converting them to `csv`.
-
+![image](https://github.com/user-attachments/assets/cf9c4de5-2bcb-416a-8a7c-fcdaa871759e)
+![image](https://github.com/user-attachments/assets/c000b830-a67c-4b5d-a975-84c79e46a307)
+![image](https://github.com/user-attachments/assets/ed1748d0-c796-4402-9714-3a944feba22c)
+![image](https://github.com/user-attachments/assets/f6cbb4b4-5f1c-4d2f-8458-de593034531c)
+![image](https://github.com/user-attachments/assets/b4fd5b51-8cde-4933-a65a-56102ec1413e)
+![image](https://github.com/user-attachments/assets/91f3b46b-bba7-4dca-afe7-ada01065219f)
+![image](https://github.com/user-attachments/assets/979318ef-431e-4e2e-9ce3-45d0d82c5318)
+![image](https://github.com/user-attachments/assets/85bd802f-95b5-409e-ab32-defaf558fe08)
+![image](https://github.com/user-attachments/assets/d5542882-98a9-4f5f-9c7f-c2219c7362bb)
+![image](https://github.com/user-attachments/assets/b38002ec-9003-4699-8bec-9fbb804151c9)
 #### Exercise 5 - Data Modeling for Postgres + Python.
 The [fifth exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-5) 
 is going to be a little different than the rest. In this problem you will be given a number of
