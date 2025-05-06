@@ -69,6 +69,8 @@ The [third exercise](https://github.com/danielbeach/data-engineering-practice/tr
 This time we  will be using a popular `aws` package called `boto3` to try to perform a multi-step
 actions to download some open source `s3` data files.
 `cd Exercises/Exercise-3` and see `README` in that location for instructions.
+![image](https://github.com/user-attachments/assets/8fcf455e-caa1-469d-9df6-0ba6342ab375)
+
 
 
 #### Exercise 4 - Convert JSON to CSV + Ragged Directories.
