@@ -47,7 +47,12 @@ from an `HTTP` source and unzip them, storing them locally with `Python`.
 ![image](https://github.com/user-attachments/assets/9ffbd177-aaca-4c28-b676-d6a23d9d89b2)
 ![image](https://github.com/user-attachments/assets/e6ef9e3d-7398-4115-a7ff-06e8e3843fec)
 ![image](https://github.com/user-attachments/assets/13645751-b863-4b8e-8bbf-d5b94e1279f6)
+![image](https://github.com/user-attachments/assets/7b9c0338-700c-4634-b38f-2b79b0c56621)
 ![image](https://github.com/user-attachments/assets/d4837a00-d412-4e3d-a004-e3b557d02ae0)
+![image](https://github.com/user-attachments/assets/be248502-369b-4215-bfba-894f1cc622af)
+![image](https://github.com/user-attachments/assets/d5b900a5-0493-42ca-9ed4-6e16ba38da9e)
+![image](https://github.com/user-attachments/assets/02be479f-3a09-42de-a40d-d022b5ea4a4b)
+![image](https://github.com/user-attachments/assets/fb1a5a5f-214c-4590-ace3-5d39be8f3d3f)
 
 
 
