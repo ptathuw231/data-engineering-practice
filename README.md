@@ -37,6 +37,9 @@ For each exercise you will need to `cd` into that folder and
 run the `docker build` command, that command will be listed in
 the `README` for each exercise, follow those instructions.
 
+### Lab 8
+![image](https://github.com/user-attachments/assets/552be05e-3fd4-49f9-aea9-a81470abc994)
+
 ### Beginner Exercises
 
 #### Exercise 1 - Downloading files.
