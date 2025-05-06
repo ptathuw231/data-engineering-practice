@@ -47,6 +47,8 @@ from an `HTTP` source and unzip them, storing them locally with `Python`.
 ![image](https://github.com/user-attachments/assets/9ffbd177-aaca-4c28-b676-d6a23d9d89b2)
 ![image](https://github.com/user-attachments/assets/e6ef9e3d-7398-4115-a7ff-06e8e3843fec)
 ![image](https://github.com/user-attachments/assets/13645751-b863-4b8e-8bbf-d5b94e1279f6)
+![image](https://github.com/user-attachments/assets/264c1dec-d4fb-48b2-baeb-090ad1ea7708)
+
 
 #### Exercise 2 - Web Scraping + Downloading + Pandas
 The [second exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-2) 
