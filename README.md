@@ -1,4 +1,4 @@
-
+-
 **Thành viên nhóm:**
 - Phạm Thị Anh Thư - 23643081
 - Trần Nhật Tiến - 23673681
@@ -43,6 +43,10 @@ the `README` for each exercise, follow those instructions.
 The [first exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-1) tests your ability to download a number of files
 from an `HTTP` source and unzip them, storing them locally with `Python`.
 `cd Exercises/Exercise-1` and see `README` in that location for instructions.
+![image](https://github.com/user-attachments/assets/11631b24-6160-4c99-b958-13fb38da8829)
+![image](https://github.com/user-attachments/assets/9ffbd177-aaca-4c28-b676-d6a23d9d89b2)
+![image](https://github.com/user-attachments/assets/e6ef9e3d-7398-4115-a7ff-06e8e3843fec)
+![image](https://github.com/user-attachments/assets/13645751-b863-4b8e-8bbf-d5b94e1279f6)
 
 #### Exercise 2 - Web Scraping + Downloading + Pandas
 The [second exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-2) 
