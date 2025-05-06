@@ -93,7 +93,11 @@ The [fifth exercise](https://github.com/danielbeach/data-engineering-practice/tr
 is going to be a little different than the rest. In this problem you will be given a number of
 `csv` files. You must create a data model / schema to hold these data sets, including indexes,
 then create all the tables inside `Postgres` by connecting to the database with `Python`.
-
+![image](https://github.com/user-attachments/assets/0940a429-7df2-44d5-9000-ccd418f3ba46)
+![image](https://github.com/user-attachments/assets/0bb57863-2a3e-49b1-8506-608809b6eb3a)
+![image](https://github.com/user-attachments/assets/5b83de03-f9dc-4ea6-beb8-ca95865af59a)
+![image](https://github.com/user-attachments/assets/9ddd7713-955e-4147-81d1-9a080d1d29f8)
+![image](https://github.com/user-attachments/assets/c5e70b2e-f04b-4b62-839a-77642be18f9c)
 
 ### Intermediate Exercises
 
@@ -102,6 +106,10 @@ The [sixth exercise](https://github.com/danielbeach/data-engineering-practice/tr
 Is going to step it up a little and move onto more popular tools. In this exercise we are going
 to load some files using `PySpark` and then be asked to do some basic aggregation.
 Best of luck!
+![image](https://github.com/user-attachments/assets/1959baf4-55cf-45a5-87ee-b1c96f92f53c)
+![image](https://github.com/user-attachments/assets/f83e20b3-8ca0-4d75-a4c4-9e8b6da4125d)
+![image](https://github.com/user-attachments/assets/cf0cc851-d94e-4201-af43-2ad4584a22bf)
+![image](https://github.com/user-attachments/assets/a28b9d41-fc69-4b53-9eba-11856e84a7fd)
 
 #### Exercise 7 - Using Various PySpark Functions
 The [seventh exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-7) 
