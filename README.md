@@ -126,6 +126,14 @@ usage to real-life problems.
 
 Many times to solve simple problems we have to find and use multiple functions available
 from libraries. This will test your ability to do that.
+![image](https://github.com/user-attachments/assets/0928de5f-23ae-4627-8d5c-ebe61d561742)
+![image](https://github.com/user-attachments/assets/7eacd041-6c36-46f4-87c6-35d4d95ad25a)
+![image](https://github.com/user-attachments/assets/b9898fba-76bb-4c98-bb41-41063d7874be)
+![image](https://github.com/user-attachments/assets/8a4df515-84cf-4421-8a36-b127417d8ecc)
+![image](https://github.com/user-attachments/assets/677c51d6-e86d-4e48-957c-2ad2e9ec4203)
+![image](https://github.com/user-attachments/assets/c4e9ffaf-7ffd-44f5-9f75-6eeac5019547)
+![image](https://github.com/user-attachments/assets/8bf42004-3a92-4625-bfa9-70eae81e8b96)
+
 
 #### Exercise 8 - Using DuckDB for Analytics and Transforms.
 The [eighth exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-8) 
