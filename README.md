@@ -84,6 +84,9 @@ The [second exercise](https://github.com/danielbeach/data-engineering-practice/t
 tests your ability perform web scraping, build uris, download files, and use Pandas to
 do some simple cumulative actions.
 `cd Exercises/Exercise-2` and see `README` in that location for instructions.
+![image](https://github.com/user-attachments/assets/777c3393-361b-4261-afae-a103456c4ea1)
+![image](https://github.com/user-attachments/assets/269ef954-b69c-4a4f-b30c-53a76b68cdab)
+Sau khi build xong, truy cập file `main.py` bằng VS code
 ![image](https://github.com/user-attachments/assets/40b70aa4-c743-4ca2-8c2e-2d23a26b7ddd)
 ![image](https://github.com/user-attachments/assets/b7492cb5-c24e-4294-bfd0-33d5b7790250)
 
