@@ -62,6 +62,99 @@ Tiếp tục thực hiện lệnh: docker build --tag=exercise-1 . để build D
 ![image](https://github.com/user-attachments/assets/fb1a5a5f-214c-4590-ace3-5d39be8f3d3f)
 ![image](https://github.com/user-attachments/assets/792be522-45b3-411a-899f-369f43181966)
 ![image](https://github.com/user-attachments/assets/a2dfe656-27e6-4460-b9ee-ce0c6faa38f8)
+> ##### Code sử dụng cho main.py
+```
+import os
+
+import requests
+
+import zipfile
+
+download\_uris = [
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2018\_Q4.zip",
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2019\_Q1.zip",
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2019\_Q2.zip",
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2019\_Q3.zip",
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2019\_Q4.zip",
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2020\_Q1.zip",
+
+    "https://divvy-tripdata.s3.amazonaws.com/Divvy\_Trips\_2220\_Q1.zip",
+
+]
+
+def download\_and\_extract(url, download\_dir):
+
+    filename = url.split("/")[-1]
+
+    zip\_path = os.path.join(download\_dir, filename)
+
+    try:
+
+        print(f"Downloading: {filename}")
+
+        response = requests.get(url, timeout=10)
+
+        response.raise\_for\_status()
+
+        with open(zip\_path, "wb") as f:
+
+            f.write(response.content)
+
+        print(f"Extracting: {filename}")
+
+        with zipfile.ZipFile(zip\_path, 'r') as zip\_ref:
+
+            zip\_ref.extractall(download\_dir)
+
+        os.remove(zip\_path)
+
+        print(f"Finished: {filename}\n")
+
+    except requests.exceptions.HTTPError as http\_err:
+
+        print(f"HTTP error: {http\_err} — Skipping {filename}")
+
+    except zipfile.BadZipFile:
+
+        print(f"Bad zip file: {filename} — Skipping")
+
+    except Exception as e:
+
+        print(f"Unexpected error: {e} — Skipping {filename}")
+
+def main():
+
+    download\_dir = "downloads"
+
+    os.makedirs(download\_dir, exist\_ok=True)
+
+    for url in download\_uris:
+
+        download\_and\_extract(url, download\_dir)
+
+if \_\_name\_\_ == "\_\_main\_\_":
+
+    main()
+```
+> Đoạn code trên thực hiện các tác vụ: 
+- Tạo thư mục downloads nếu chưa tồn tại
+
+- Tải từng file từ danh sách download\_uris
+
+- Giữ tên gốc của file từ URL
+
+- Giải nén .zip thành .csv
+
+- Xóa file .zip sau khi giải nén
+
+- Bỏ qua URL không hợp lệ (ví dụ: cái Divvy\_Trips\_2220\_Q1.zip không tồn tại)
+
 ![image](https://github.com/user-attachments/assets/af012498-0f98-4110-bb6e-17dc7f2a0b72)
 
 
