@@ -84,6 +84,11 @@ The [second exercise](https://github.com/danielbeach/data-engineering-practice/t
 tests your ability perform web scraping, build uris, download files, and use Pandas to
 do some simple cumulative actions.
 `cd Exercises/Exercise-2` and see `README` in that location for instructions.
+
+Thay đổi đường dẫn thư mục tại CMD thành `Exercise-3`
+Chạy lệnh docker `build --tag=exercise-3 .` để build image Docker (Quá trình diễn ra trong 2 – 3 phút)
+
+![image](https://github.com/user-attachments/assets/499bb349-2512-4d0a-a3f3-2ad71c07359f)
 ![image](https://github.com/user-attachments/assets/777c3393-361b-4261-afae-a103456c4ea1)
 ![image](https://github.com/user-attachments/assets/269ef954-b69c-4a4f-b30c-53a76b68cdab)
 
