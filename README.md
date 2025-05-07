@@ -85,9 +85,6 @@ tests your ability perform web scraping, build uris, download files, and use Pan
 do some simple cumulative actions.
 `cd Exercises/Exercise-2` and see `README` in that location for instructions.
 
-Thay đổi đường dẫn thư mục tại CMD thành `Exercise-3`
-Chạy lệnh docker `build --tag=exercise-3 .` để build image Docker (Quá trình diễn ra trong 2 – 3 phút)
-
 ![image](https://github.com/user-attachments/assets/499bb349-2512-4d0a-a3f3-2ad71c07359f)
 ![image](https://github.com/user-attachments/assets/777c3393-361b-4261-afae-a103456c4ea1)
 ![image](https://github.com/user-attachments/assets/269ef954-b69c-4a4f-b30c-53a76b68cdab)
@@ -104,6 +101,14 @@ The [third exercise](https://github.com/danielbeach/data-engineering-practice/tr
 This time we  will be using a popular `aws` package called `boto3` to try to perform a multi-step
 actions to download some open source `s3` data files.
 `cd Exercises/Exercise-3` and see `README` in that location for instructions.
+
+Thay đổi đường dẫn thư mục tại CMD thành `Exercise-3`
+Chạy lệnh docker `build --tag=exercise-3 .` để build image Docker (Quá trình diễn ra trong 2 – 3 phút)
+
+![image](https://github.com/user-attachments/assets/9aefcfa8-1cba-4c86-b4da-44cda3875ff3)
+![image](https://github.com/user-attachments/assets/d386cbc4-7caf-423c-a210-6c306802cb9c)
+
+ Sau khi build xong, truy cập file `main.py` bằng VS code
 ![image](https://github.com/user-attachments/assets/8fcf455e-caa1-469d-9df6-0ba6342ab375)
 
 
