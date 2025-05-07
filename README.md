@@ -50,6 +50,7 @@ the `README` for each exercise, follow those instructions.
 The [first exercise](https://github.com/danielbeach/data-engineering-practice/tree/main/Exercises/Exercise-1) tests your ability to download a number of files
 from an `HTTP` source and unzip them, storing them locally with `Python`.
 `cd Exercises/Exercise-1` and see `README` in that location for instructions.
+
 Tiến hành chạy lệnh cd data-engineering-practice/Exercises/Exercise-1 để thay đổi đường dẫn thư mục Exercise-1
 Tiếp tục thực hiện lệnh: docker build --tag=exercise-1 . để build Docker image Quá trình sẽ mất vài phút
 ![image](https://github.com/user-attachments/assets/18340206-8dc3-46b2-974d-756c246a3e50)
